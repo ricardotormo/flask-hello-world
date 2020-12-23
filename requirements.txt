@@ -1,2 +1,7 @@
 Flask
 Gunicorn
+sklearn
+pickle
+numpy
+os
+json
