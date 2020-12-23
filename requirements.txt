@@ -2,5 +2,3 @@ Flask
 Gunicorn
 sklearn
 numpy
-os
-json
