@@ -23,4 +23,4 @@ def hello_world():
     global open_hi_hat
     clf = loadModel()
     res = clf.predict([open_hi_hat])
-    return res
+    return res[0]
